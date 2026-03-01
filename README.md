@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="Insight/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="120" alt="Insight App Icon"/>
-</p>
 
 <h1 align="center">Insight</h1>
 
