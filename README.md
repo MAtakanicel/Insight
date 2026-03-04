@@ -32,12 +32,16 @@ Bu uygulama kapsamlı bir Braille eğitimi sunmayı amaçlamaz; gerçek Braille 
 
 <p align="center">
   <img src="ScreenShots/Welcome.png" width="200" alt="Welcome"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="ScreenShots/Home.png" width="200" alt="Home"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="ScreenShots/Challenge.png" width="200" alt="Challenge"/>
 </p>
 <p align="center">
   <img src="ScreenShots/Learn.png" width="200" alt="Learn"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="ScreenShots/Practice.png" width="200" alt="Practice"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="ScreenShots/Dechiper.png" width="200" alt="Decipher"/>
 </p>
 
