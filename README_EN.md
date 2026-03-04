@@ -27,6 +27,21 @@ This app is not intended to be a comprehensive Braille course; real Braille span
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="Screenshots/Welcome.png" width="200" alt="Welcome"/>
+  <img src="Screenshots/Home.png" width="200" alt="Home"/>
+  <img src="Screenshots/Challenge.png" width="200" alt="Challenge"/>
+</p>
+<p align="center">
+  <img src="Screenshots/Learn.png" width="200" alt="Learn"/>
+  <img src="Screenshots/Practice.png" width="200" alt="Practice"/>
+  <img src="Screenshots/Dechiper.png" width="200" alt="Decipher"/>
+</p>
+
+---
+
 ## ✨ Features
 
 ### 📖 Interactive Onboarding
